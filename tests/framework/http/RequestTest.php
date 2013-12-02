@@ -4,7 +4,7 @@ use bankaccount\framework\http\Request;
 /**
  * @small
  */
-class RequestTest extends PHPUnit_Framework_TestCase
+__class RequestTest extends PHPUnit_Framework_TestCase
 {
     /**
      * @covers bankaccount\framework\http\Request::__construct
